@@ -1,2 +1,1 @@
-# BraveDebloatPolicy
-Windows and macOS Policy to debloat Brave browser
+Windows (and soon macOS) Policy to debloat Brave browser
